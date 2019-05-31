@@ -106,15 +106,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Juan Pablo Montoya Estevez"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Love to play the piano and saxophone, develop high impact tech and learn find innovative solutions to worldwide problems. CEO of Boson Innovations. 16"
+  location         : "Tecnológico de Monterrey - Hermosillo Sonora, México -"
+  email            : "juanpablomontoyae@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+       url: mailto: juanpablomontoyae@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
